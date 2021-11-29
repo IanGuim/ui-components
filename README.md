@@ -9,4 +9,4 @@
 - Modal: Filtro
 
 ![alt text](https://github.com/IanGuim/ui-components/blob/main/public/screenshot/Titulo.png)
-- Modal: Titulo
+- Titulo
